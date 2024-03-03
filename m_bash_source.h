@@ -8,5 +8,6 @@
 #include <sys/wait.h>
 
 int my_bash();
+int execute_command(char *args[]);
 
 #endif
